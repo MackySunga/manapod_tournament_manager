@@ -1,0 +1,86 @@
+MANA POD LICENSE (PHILIPPINE LGS TOURNAMENT USE)
+Version 1.0 — 2025-12-26
+
+Copyright (c) 2025 BMS
+All rights reserved.
+
+IMPORTANT: This License is not an “open source” license. It is a limited permission
+license allowing Local Game Stores in the Philippines to use the Software for tournaments,
+subject to the restrictions below.
+
+1) DEFINITIONS
+1.1 “Software” means the Mana Pod application, including all source code, binaries,
+    builds, assets, UI/UX elements, templates, reports, and accompanying documentation.
+1.2 “Licensor” means BMS (the author/owner of the Software).
+1.3 “You” or “Licensee” means the individual or entity using the Software.
+1.4 “Local Game Store” or “LGS” means a brick-and-mortar retail store primarily engaged
+    in tabletop gaming products/events, operating in the Philippines.
+1.5 “Tournament Use” means using the Software to organize, manage, score, and report
+    tournament rounds and standings for in-store or store-run events.
+1.6 “Redistribute” means to sell, resell, license, sublicense, rent, lease, lend, publish,
+    share, upload, post, email, broadcast, provide copies, or otherwise make the Software
+    available to any third party, in whole or in part, in any form (source or compiled).
+1.7 “Service Offering” means providing services to third parties where the Software is
+    used as a core part of the service, including (but not limited to) “tournament management
+    as a service,” hosted access, paid setup, paid operation, or running events on behalf of others
+    using the Software as a selling point.
+
+2) GRANT OF LICENSE (PERMITTED USE)
+Subject to full compliance with this License, Licensor grants You a limited, revocable,
+non-exclusive, non-transferable, non-sublicensable license to:
+
+2.1 Use the Software for Tournament Use within the Philippines, including tournaments that are
+    free OR have paid entry fees, provided the Software is used by or for an LGS.
+2.2 Install and run the Software on Your own devices/servers for internal operations of Your LGS.
+2.3 Modify the Software ONLY for Your internal Tournament Use, provided that any modified
+    version remains subject to this License and is not Redistributed.
+
+3) REQUIRED ATTRIBUTION (FOOTERS)
+3.1 You must keep all attribution/credit footers intact, including “Created by: BMS” (or equivalent),
+    wherever it appears in the UI, pages, reports, exports, or generated outputs.
+3.2 You must not remove, hide, obscure, replace, or reduce the visibility of attribution/credit
+    in a way that a reasonable user would not notice it.
+3.3 If the Software has an “About” page or credits section, You must not remove or alter it.
+
+4) RESTRICTIONS (NOT PERMITTED)
+You may NOT, and may NOT allow others to:
+
+4.1 Redistribute the Software in any form (source code or compiled), whether for free or for payment.
+4.2 Publish the Software (or substantial portions of it) to public or private repositories, file-sharing sites,
+    app stores, marketplaces, or any distribution channel.
+4.3 Offer a Service Offering based on the Software, including hosting it for others, selling “access” to it,
+    or operating tournaments for third parties as a paid service where the Software is part of the service value.
+4.4 Sell, sublicense, or commercially exploit the Software outside of permitted Tournament Use by an LGS
+    in the Philippines.
+4.5 Remove or alter copyright notices, license notices, branding, or attribution/credit footers.
+
+5) COMMERCIAL / OTHER USE (SEPARATE PERMISSION REQUIRED)
+Any use outside Section 2 requires Licensor’s prior written permission, including (but not limited to):
+- Use by entities that are not an LGS in the Philippines
+- Redistribution in any form
+- Providing hosted access / SaaS (Software as a Service)
+- Using the Software as part of paid consulting/managed services for others
+
+To request permission, contact the Licensor (BMS).
+
+6) TERMINATION
+6.1 This License is effective until terminated.
+6.2 It terminates automatically if You breach any term.
+6.3 Upon termination, You must stop using the Software and delete all copies in Your possession/control,
+    including modified versions.
+
+7) DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+AND NON-INFRINGEMENT. YOU USE THE SOFTWARE AT YOUR OWN RISK.
+
+8) LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9) GOVERNING LAW
+This License shall be governed by the laws of the Republic of the Philippines, without regard to
+conflict of law principles.
+
+END OF TERMS
